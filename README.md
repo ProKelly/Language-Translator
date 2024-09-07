@@ -1,6 +1,6 @@
 # Output 
 
-![Screenshot from 2024-09-07 07-47-41](https://github.com/user-attachments/assets/7765e070-15b0-41ee-b141-8e47a80d72e7)
+![Screenshot from 2024-09-07 07-51-58](https://github.com/user-attachments/assets/c484da52-2f5b-4dd8-bf69-e89ac3d08453)
 
 
 # Language Translator

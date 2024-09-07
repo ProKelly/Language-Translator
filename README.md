@@ -1,3 +1,8 @@
+# Output 
+
+![Screenshot from 2024-09-07 07-47-41](https://github.com/user-attachments/assets/7765e070-15b0-41ee-b141-8e47a80d72e7)
+
+
 # Language Translator
 
 A simple language translation web application built with Django, Tailwind CSS, and Python's `translate` library. This project allows users to enter text, select a target language, and get translations. It includes a user-friendly interface with modern design elements.
@@ -22,8 +27,8 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Prokelly/language-translator.git
-    cd language-translator
+    https://github.com/ProKelly/Language-Translator.git
+    cd Language-Translator
     ```
 
 2. **Set Up a Virtual Environment**:
@@ -40,8 +45,6 @@ Follow these steps to set up the project locally:
     ```
 
 4. **Install Tailwind CSS**:
-
-    Ensure that Tailwind CSS and its dependencies are properly set up. If you encounter issues, consult the Tailwind CSS documentation for the correct installation steps.
 
 5. **Run Migrations**:
 
@@ -68,11 +71,11 @@ Follow these steps to set up the project locally:
 
 ## Project Structure
 
-- `myapp/`: Contains the main Django application code.
+- `main/`: Contains the main Django application code.
   - `migrations/`: Database migrations.
-  - `static/`: Static files including Tailwind CSS.
   - `templates/`: HTML templates.
   - `views.py`: Logic for handling requests and responses.
+- `theme`: contains tailwind css
 - `requirements.txt`: List of Python dependencies.
 - `manage.py`: Django's command-line utility.
 
@@ -103,7 +106,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request."
 
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

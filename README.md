@@ -107,9 +107,7 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request."
 
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, you can reach me at [Prokelly.me](mailto:princekelly.tech@gmail.com).
 
